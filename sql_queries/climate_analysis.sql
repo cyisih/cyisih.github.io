@@ -1,7 +1,7 @@
 -- ========================================================
 -- PROJECT: Global City Climate & Economic Analysis
 -- OBJECTIVE: Identify top affordable cities with warm winters
--- AUTHOR: Your Name
+-- AUTHOR: cyisih
 -- ========================================================
 
 -- STEP 1: Data Cleaning (Handling missing temperature metrics)
